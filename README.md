@@ -33,7 +33,7 @@ dependencies {
         binding.textViewCountyName.text = Kenya.getCountyName("001")
 ```
 
-#### Getting a Counties Code from its Name        
+#### Getting a County Code from its Name        
 ```kotlin
         binding.textViewCountyCode.text = Kenya.getCountyCode("Nairobi")
 ```
